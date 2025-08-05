@@ -3,7 +3,8 @@
 ## 🚀 Skills & Technologies<br><br>
 ### **Programming Languages**:<br>- Python, JavaScript, HTML, CSS, Bash<br><br>
 ### **Web Development**:<br>- React, Node.js, REST APIs, Responsive Web Design<br><br>
-### **Machine Learning & Deep Learning**:<br>- Basic Machine Learning concepts<br>- Libraries: TensorFlow, scikit-learn, Pandas<br>- Deep Learning (DL) with Keras, TensorFlow<br>- OpenCV for computer vision tasks<br><br>### **Databases**:<br>- **Relational**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite<br>- **NoSQL**: MongoDB, Amazon DynamoDB, Redis<br><br>
+### **Machine Learning & Deep Learning**:<br>- Basic Machine Learning concepts<br>- Libraries: TensorFlow, scikit-learn, Pandas<br>- Deep Learning (DL) with Keras, TensorFlow<br>- OpenCV for computer vision tasks<br><br>
+### **Databases**:<br>- **Relational**: MySQL, PostgreSQL, Microsoft SQL Server, SQLite<br>- **NoSQL**: MongoDB, Amazon DynamoDB, Redis<br><br>
 ### **Cloud & DevOps**:<br>- AWS (Amazon Web Services)<br>- Docker (Containerization)<br>- Apache (Web Server)<br>- Kubernetes (optional if you work with it)<br><br>
 ### **Other Tools**:<br>- Bash scripting (Linux/Unix)<br>- Windows Terminal<br><br>
 ## 📫 How to Reach Me<br><br>- **Email**: [samvel.stepanyan.2011@mail.ru]<br><br>Feel free to reach out! I'd love to connect and collaborate on exciting projects! 😄<br><br>
